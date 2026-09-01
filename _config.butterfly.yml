@@ -56,8 +56,8 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/yuki/head-1.jpg
-  effect: true
+  img: /img/yuki/yuki-8.png
+  effect: false
 
 # Disable all banner images
 disable_top_img: false
